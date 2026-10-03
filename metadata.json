@@ -1,0 +1,6 @@
+{
+  "name": "Lobo — 7-sinf Adabiyot Interaktiv Dars",
+  "description": "Ernest Seton-Tompsonning 'Lobo' hikoyasi bo'yicha 7-sinf o'quvchilari uchun 3 tilli interaktiv dars, o'yinlar, keys-stadi va bilimni sinash platformasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
